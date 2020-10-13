@@ -1,4 +1,4 @@
-#What is the time, space complexity of following code :
+# What is the time, space complexity of following code :
 
         int a = 0, b = 0;    
         for (i = 0; i < N; i++) {
