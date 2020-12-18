@@ -1,2 +1,2 @@
 # Interviewbit
-Python Programs from inerviewbit website
+Python Programs from interviewbit website
