@@ -1,4 +1,6 @@
 '''
+Problem Description
+
 Given the array of strings A,
 you need to find the longest string S which is the prefix of ALL the strings in the array.
 
